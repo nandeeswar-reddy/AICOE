@@ -1,0 +1,12 @@
+backend/venv/
+backend/__pycache__/
+backend/server.log
+backend/error.log
+backend/persistence/q_table.json
+frontend/node_modules/
+frontend/dist/
+.vscode/
+*.txt
+*.bat
+!start.bat
+.DS_Store
